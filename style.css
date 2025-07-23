@@ -38,3 +38,7 @@ button:hover
 {
     background: lightgrey;
 }
+canvas {
+  border: 1px solid red;
+  display: block;
+}
